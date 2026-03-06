@@ -1,0 +1,31 @@
+@model EmployeeAppManagement.Models.EmployeeViewModel
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header text-center bg-dark text-white">
+                    <h3>Employee Details</h3>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <!-- Employee Profile Picture -->
+                        <div class="col-md-4 text-center">
+                            <img src="@Model.PhotoURL" alt="Profile Picture" class="img-fluid rounded-circle" />
+                        </div>
+
+                        <!-- Employee Information -->
+                        <div class="col-md-8">
+                            <h4>@Model.FirstName @Model.LastName</h4>
+                            <p><strong>Employee ID:</strong> @Model.EmployeeId</p>
+                            <p><strong>Office Phone:</strong> @Model.OfficePhone</p>
+                            <p><strong>Email:</strong> <a href="mailto:@Model.Email">@Model.Email</a></p>
+                            <p><strong>Employee Type:</strong> @ViewBag.Category</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

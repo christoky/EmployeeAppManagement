@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\COP3855-ASP-NET-Core-Empty\\EmployeeAppManagement\\EmployeeAppManagement\\wwwroot\\images\\banner1.svg",
+      "PackagePath": "staticwebassets\\images\\banner1.svg"
+    },
+    {
+      "Id": "D:\\COP3855-ASP-NET-Core-Empty\\EmployeeAppManagement\\EmployeeAppManagement\\wwwroot\\images\\banner2.svg",
+      "PackagePath": "staticwebassets\\images\\banner2.svg"
+    },
+    {
+      "Id": "D:\\COP3855-ASP-NET-Core-Empty\\EmployeeAppManagement\\EmployeeAppManagement\\wwwroot\\images\\banner3.svg",
+      "PackagePath": "staticwebassets\\images\\banner3.svg"
+    },
+    {
+      "Id": "D:\\COP3855-ASP-NET-Core-Empty\\EmployeeAppManagement\\EmployeeAppManagement\\wwwroot\\images\\banner4.svg",
+      "PackagePath": "staticwebassets\\images\\banner4.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.EmployeeAppManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.EmployeeAppManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.EmployeeAppManagement.props",
+      "PackagePath": "build\\EmployeeAppManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.EmployeeAppManagement.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeAppManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.EmployeeAppManagement.props",
+      "PackagePath": "buildTransitive\\EmployeeAppManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

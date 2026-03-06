@@ -1,0 +1,49 @@
+@model EmployeeAppManagement.Models.EmployeeViewModel
+
+<h2>Delete Employee</h2>
+
+<p>Are you sure you want to delete this employee?</p>
+
+<div class="mb-3">
+    <label for="EmployeeId" class="form-label">Employee ID</label>
+    <input type="text" class="form-control" id="EmployeeId" value="@Model.EmployeeId" readonly />
+</div>
+
+<div class="mb-3">
+    <label for="FirstName" class="form-label">First Name</label>
+    <input type="text" class="form-control" id="FirstName" value="@Model.FirstName" readonly />
+</div>
+
+<div class="mb-3">
+    <label for="LastName" class="form-label">Last Name</label>
+    <input type="text" class="form-control" id="LastName" value="@Model.LastName" readonly />
+</div>
+
+<div class="mb-3">
+    <label for="Email" class="form-label">Email</label>
+    <input type="email" class="form-control" id="Email" value="@Model.Email" readonly />
+</div>
+
+<div class="mb-3">
+    <label for="OfficePhone" class="form-label">Office Phone</label>
+    <input type="text" class="form-control" id="OfficePhone" value="@Model.OfficePhone" readonly />
+</div>
+
+<div class="mb-3">
+    <label for="PhotoURL" class="form-label">Photo URL</label>
+    <input type="text" class="form-control" id="PhotoURL" value="@Model.PhotoURL" readonly />
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" name="EmployeeID" value="@Model.EmployeeId" />
+    <input type="hidden" name="EmpCategory" value="@ViewBag.Category" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+
+    <a id="cancelButton" class="btn btn-secondary">Cancel</a>
+    <script>
+        document.getElementById('cancelButton').href = "/Employee/" + '@ViewBag.Category' + "List";
+    </script>
+</form>
+
+

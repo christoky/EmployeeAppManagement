@@ -1,0 +1,43 @@
+@model EmployeeAppManagement.Models.EmployeeViewModel
+
+<div class="mt-5"></div>
+<div class="card">
+    <div class="card-header bg-success text-white">Add Staff</div>
+    <div class="card-body">
+        <form asp-action="AddStaff" role="form">
+            <div class="row">
+                <div class="col-md-4 mb-3">
+                    <label asp-for="FirstName" class="form-label"></label>
+                    <input asp-for="FirstName" class="form-control" />
+                </div>
+
+                <div class="col-md-4 mb-3">
+                    <label asp-for="LastName" class="form-label"></label>
+                    <input asp-for="LastName" class="form-control" />
+                </div>
+
+                <div class="col-md-4 mb-3">
+                    <label asp-for="Email" class="form-label"></label>
+                    <input asp-for="Email" class="form-control" />
+                </div>
+
+                <div class="col-md-4 mb-3">
+                    <label asp-for="OfficePhone" class="form-label"></label>
+                    <input asp-for="OfficePhone" class="form-control" />
+                </div>
+
+                <div class="col-md-4 mb-3">
+                    <label asp-for="PhotoURL" class="form-label"></label>
+                    <input asp-for="PhotoURL" class="form-control" />
+                </div>
+            </div>
+
+            <div class="d-flex justify-content-end">                
+                <button class="btn btn-success me-3" id="btn" type="submit">Submit</button>
+                <button id="btnCancel" class="btn btn-secondary me-2" type="button" onclick="window.location.href='@Url.Action("StaffList", "Employee")';">Cancel</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+

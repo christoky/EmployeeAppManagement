@@ -1,0 +1,8 @@
+wwwroot\images\banner1.svg
+wwwroot\images\banner2.svg
+wwwroot\images\banner3.svg
+wwwroot\images\banner4.svg
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\wwwroot\images\banner1.svg
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\wwwroot\images\banner2.svg
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\wwwroot\images\banner3.svg
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\wwwroot\images\banner4.svg

@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EmployeeAppManagement
+build_property.RootNamespace = EmployeeAppManagement
+build_property.ProjectDir = D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/UNF/Spring 2025/COP 3855 - Web Systems Development/Assignement/in-class assignment_C\#Programming/EmployeeAppManagement/EmployeeAppManagement/Views/Employee/AddFaculty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWRkRmFjdWx0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNF/Spring 2025/COP 3855 - Web Systems Development/Assignement/in-class assignment_C\#Programming/EmployeeAppManagement/EmployeeAppManagement/Views/Employee/AddStaff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWRkU3RhZmYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNF/Spring 2025/COP 3855 - Web Systems Development/Assignement/in-class assignment_C\#Programming/EmployeeAppManagement/EmployeeAppManagement/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNF/Spring 2025/COP 3855 - Web Systems Development/Assignement/in-class assignment_C\#Programming/EmployeeAppManagement/EmployeeAppManagement/Views/Employee/DetailEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlsRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNF/Spring 2025/COP 3855 - Web Systems Development/Assignement/in-class assignment_C\#Programming/EmployeeAppManagement/EmployeeAppManagement/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNF/Spring 2025/COP 3855 - Web Systems Development/Assignement/in-class assignment_C\#Programming/EmployeeAppManagement/EmployeeAppManagement/Views/Employee/FacultyList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRmFjdWx0eUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNF/Spring 2025/COP 3855 - Web Systems Development/Assignement/in-class assignment_C\#Programming/EmployeeAppManagement/EmployeeAppManagement/Views/Employee/StaffList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcU3RhZmZMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNF/Spring 2025/COP 3855 - Web Systems Development/Assignement/in-class assignment_C\#Programming/EmployeeAppManagement/EmployeeAppManagement/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNF/Spring 2025/COP 3855 - Web Systems Development/Assignement/in-class assignment_C\#Programming/EmployeeAppManagement/EmployeeAppManagement/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNF/Spring 2025/COP 3855 - Web Systems Development/Assignement/in-class assignment_C\#Programming/EmployeeAppManagement/EmployeeAppManagement/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNF/Spring 2025/COP 3855 - Web Systems Development/Assignement/in-class assignment_C\#Programming/EmployeeAppManagement/EmployeeAppManagement/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNF/Spring 2025/COP 3855 - Web Systems Development/Assignement/in-class assignment_C\#Programming/EmployeeAppManagement/EmployeeAppManagement/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNF/Spring 2025/COP 3855 - Web Systems Development/Assignement/in-class assignment_C\#Programming/EmployeeAppManagement/EmployeeAppManagement/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

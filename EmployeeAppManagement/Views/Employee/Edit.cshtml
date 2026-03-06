@@ -1,0 +1,48 @@
+@model EmployeeAppManagement.Models.EmployeeViewModel
+
+<h2>Edit Employee</h2>
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label for="EmployeeId" class="form-label">Employee ID</label>
+        <input type="text" class="form-control" id="EmployeeId" name="EmployeeId" value="@Model.EmployeeId" />
+    </div>
+
+    <div class="mb-3">
+        <label for="FirstName" class="form-label">First Name</label>
+        <input type="text" class="form-control" id="FirstName" name="FirstName" value="@Model.FirstName" required />
+    </div>
+
+    <div class="mb-3">
+        <label for="LastName" class="form-label">Last Name</label>
+        <input type="text" class="form-control" id="LastName" name="LastName" value="@Model.LastName" required />
+    </div>
+
+    <div class="mb-3">
+        <label for="Email" class="form-label">Email</label>
+        <input type="email" class="form-control" id="Email" name="Email" value="@Model.Email" required />
+    </div>
+
+    <div class="mb-3">
+        <label for="OfficePhone" class="form-label">Office Phone</label>
+        <input type="text" class="form-control" id="OfficePhone" name="OfficePhone" value="@Model.OfficePhone" required />
+    </div>
+
+    <div class="mb-3">
+        <label for="PhotoURL" class="form-label">Photo URL</label>
+        <input type="text" class="form-control" id="PhotoURL" name="PhotoURL" value="@Model.PhotoURL" />
+    </div>
+
+
+    <!-- Add hidden input to pass Employee Category -->
+    <input type="hidden" name="employeeCategory" value="@ViewBag.Category" />
+
+    <button type="submit" class="btn btn-primary me-3">Save</button>
+    <a id="cancelButton" class="btn btn-secondary">Cancel</a>
+    <script>
+        document.getElementById('cancelButton').href = "/Employee/" + '@ViewBag.Category' + "List";
+    </script>
+    
+</form>
+
+

@@ -1,0 +1,71 @@
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\appsettings.Development.json
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\appsettings.json
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\EmployeeAppManagement.staticwebassets.endpoints.json
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\EmployeeAppManagement.exe
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\EmployeeAppManagement.deps.json
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\EmployeeAppManagement.runtimeconfig.json
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\EmployeeAppManagement.dll
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\EmployeeAppManagement.pdb
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.GeneratedMSBuildEditorConfig.editorconfig
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.AssemblyInfoInputs.cache
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.AssemblyInfo.cs
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.csproj.CoreCompileInputs.cache
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.MvcApplicationPartsAssemblyInfo.cache
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.RazorAssemblyInfo.cache
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.RazorAssemblyInfo.cs
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\scopedcss\bundle\EmployeeAppManagement.styles.css
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\staticwebassets.build.json
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\staticwebassets.development.json
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\staticwebassets\msbuild.EmployeeAppManagement.Microsoft.AspNetCore.StaticWebAssets.props
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\staticwebassets\msbuild.EmployeeAppManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\staticwebassets\msbuild.build.EmployeeAppManagement.props
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeAppManagement.props
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EmployeeAppManagement.props
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\staticwebassets.pack.json
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.dll
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\refint\EmployeeAppManagement.dll
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.pdb
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.genruntimeconfig.cache
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\ref\EmployeeAppManagement.dll
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\EmployeeAppManagement.staticwebassets.runtime.json
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\compressed\irdodeotqt-v6jnq5ttib.gz
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\compressed\f6dcrpwp6m-htbl0vvztd.gz
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\compressed\u29n9psrm6-uj5iyz0axj.gz
+d:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\compressed\wdm2gwo1or-w24zs667xn.gz
+D:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\appsettings.Development.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\appsettings.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\EmployeeAppManagement.staticwebassets.runtime.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\EmployeeAppManagement.staticwebassets.endpoints.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\EmployeeAppManagement.exe
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\EmployeeAppManagement.deps.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\EmployeeAppManagement.runtimeconfig.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\EmployeeAppManagement.dll
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\bin\Debug\net9.0\EmployeeAppManagement.pdb
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.AssemblyInfoInputs.cache
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.AssemblyInfo.cs
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.csproj.CoreCompileInputs.cache
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.RazorAssemblyInfo.cache
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.RazorAssemblyInfo.cs
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\scopedcss\bundle\EmployeeAppManagement.styles.css
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\compressed\irdodeotqt-v6jnq5ttib.gz
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\compressed\f6dcrpwp6m-htbl0vvztd.gz
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\compressed\u29n9psrm6-uj5iyz0axj.gz
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\compressed\wdm2gwo1or-w24zs667xn.gz
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\staticwebassets.build.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\staticwebassets.development.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.dll
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\refint\EmployeeAppManagement.dll
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.pdb
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\EmployeeAppManagement.genruntimeconfig.cache
+D:\UNF\Spring 2025\COP 3855 - Web Systems Development\Assignement\in-class assignment_C#Programming\EmployeeAppManagement\EmployeeAppManagement\obj\Debug\net9.0\ref\EmployeeAppManagement.dll
